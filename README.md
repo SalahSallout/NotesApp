@@ -1,4 +1,4 @@
-# course_getx
+# notes_app_with_php
 
 A new Flutter project.
 
