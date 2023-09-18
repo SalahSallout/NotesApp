@@ -1,6 +1,5 @@
 // ignore_for_file: use_build_context_synchronously
 
-import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:course_getx/auth/auth_text_from_field%20copy.dart';
 import 'package:course_getx/components/crud.dart';
 import 'package:course_getx/constant/linkapi.dart';
