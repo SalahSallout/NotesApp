@@ -35,19 +35,7 @@ class _SignupState extends State<Signup> {
       if (response?['status'] == "Success") {
         Get.offAndToNamed("/home");
       } else {
-        AwesomeDialog(
-          context: context,
-          title: "Alert",
-          alignment: Alignment.center,
-          body: const Center(
-            child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                crossAxisAlignment: CrossAxisAlignment.center,
-                children: [
-                  Text("Not Found 404"),
-                ]),
-          ),
-        ).show();
+       //
       }
     }
   }

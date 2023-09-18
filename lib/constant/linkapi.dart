@@ -1,4 +1,4 @@
-const String linkServerName = "http://10.0.2.2/coursephp";
+const String linkServerName = "http://10.0.2.2/php_notes_app";
 
 //auth
 
